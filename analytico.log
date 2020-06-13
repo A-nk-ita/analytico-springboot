@@ -1,0 +1,20 @@
+22:40:50.860 3809 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Starting AnalyticoSpringApplication on ankita with PID 30034 (/home/ankita/Documents/analytico-spring/target/classes started by ankita in /home/ankita/Documents/analytico-spring)
+22:40:50.874 3823 [restartedMain] DEBUG c.e.a.AnalyticoSpringApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+22:40:50.875 3824 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - No active profile set, falling back to default profiles: default
+22:41:48.583 1815 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Starting AnalyticoSpringApplication on ankita with PID 30437 (/home/ankita/Documents/analytico-spring/target/classes started by ankita in /home/ankita/Documents/analytico-spring)
+22:41:48.588 1820 [restartedMain] DEBUG c.e.a.AnalyticoSpringApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+22:41:48.589 1821 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - No active profile set, falling back to default profiles: default
+22:44:50.240 2456 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Starting AnalyticoSpringApplication on ankita with PID 30803 (/home/ankita/Documents/analytico-spring/target/classes started by ankita in /home/ankita/Documents/analytico-spring)
+22:44:50.244 2460 [restartedMain] DEBUG c.e.a.AnalyticoSpringApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+22:44:50.246 2462 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - No active profile set, falling back to default profiles: default
+21:16:05.379 2318 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Starting AnalyticoSpringApplication on ankita with PID 17092 (/home/ankita/Documents/analytico-spring/target/classes started by ankita in /home/ankita/Documents/analytico-spring)
+21:16:05.386 2325 [restartedMain] DEBUG c.e.a.AnalyticoSpringApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+21:16:05.389 2328 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - No active profile set, falling back to default profiles: default
+21:16:52.435 1717 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Starting AnalyticoSpringApplication on ankita with PID 17416 (/home/ankita/Documents/analytico-spring/target/classes started by ankita in /home/ankita/Documents/analytico-spring)
+21:16:52.441 1723 [restartedMain] DEBUG c.e.a.AnalyticoSpringApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+21:16:52.442 1724 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - No active profile set, falling back to default profiles: default
+21:17:01.911 11193 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Started AnalyticoSpringApplication in 10.267 seconds (JVM running for 12.263)
+21:17:02.384 11666 [restartedMain] INFO  c.e.a.service.UserService - shubham@analytico.com successfully saved in to database
+21:31:15.566 3749 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - Starting AnalyticoSpringApplication on ankita with PID 19017 (/home/ankita/Documents/analytico-spring/target/classes started by ankita in /home/ankita/Documents/analytico-spring)
+21:31:15.579 3762 [restartedMain] DEBUG c.e.a.AnalyticoSpringApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+21:31:15.583 3766 [restartedMain] INFO  c.e.a.AnalyticoSpringApplication - No active profile set, falling back to default profiles: default
